@@ -64,4 +64,4 @@ $ terraform destroy -force
 
 Resources can be destroyed using the terraform destroy command, which is similar to terraform apply but it behaves as if all of the resources have been removed from the configuration.
 
-Next step , see details [here](https://techlabnews.com/2021/terraform-mysql-EKS-AWS/index.html "Create Amazon EKS cluster using Terraform")
+Next step , see details [here](https://techlabnews.com/terraform-mysql-EKS-AWS/index.html "Create Amazon EKS cluster using Terraform")
